@@ -1,1 +1,5 @@
-console.log("hello")
+
+function button1() {
+    alert("hello");
+}
+
