@@ -1,0 +1,22 @@
+body{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/61c4da8eb1b30a201b9669f2/1696691175374-MJY4VWB1KS8NU3DE3JK1/Sounds-of-Nature.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+h1{
+    color: #000000;
+}
+
+img{
+    border-style: outset;
+    border-width: 5px;
+    border-color: gold;
+    margin-right: 5px;
+}
+
+button{
+    margin-top: 5px;
+}

@@ -1,5 +1,7 @@
 
-function button1() {
+/*function button1() {
     alert("hello");
 }
+*/
 
+console.log("hello")
